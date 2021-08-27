@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+	<product id="1">
+		<name>Classic Black Bin Bag X10</name>
+		<catagory>Bin Man</catagory>
+		<sizes>
+			<xlarge price="£1.40"/>
+			<large price="£1.20"/>
+			<medium price="£1"/>
+			<small price="80p"/>
+			<xsmall price="60p"/>	
+		</sizes>
+	</product>
+	<product id="2">
+		<name>Fancy Green Bin Bag X10</name>
+		<catagory>Bin Man</catagory>
+		<sizes>
+			<xlarge price="£3.60"/>
+			<large price="£3.30"/>
+			<medium price="£3"/>
+			<small price="£2.70"/>
+			<xsmall price="£2.40"/>
+		</sizes>
+	</product>
+	<product id="3">
+		<name>Classic Black Bin Bag X10</name>
+		<catagory>Bin Man</catagory>
+		<sizes>
+			<xlarge price="£10.80"/>
+			<large price="£9.90"/>
+			<medium price="£9"/>
+			<small price="£8.10"/>
+			<xsmall price="£7.20"/>
+		</sizes>
+	</product>
+	<product id="4">
+		<name>Classic Black Bin</name>
+		<catagory>Bin Man</catagory>
+		<sizes>
+			<xlarge price="£7"/>
+			<large price="£6"/>
+			<medium price="£5"/>
+			<small price="£4"/>
+			<xsmall price="£3"/>
+		</sizes>
+	</product>
+	<product id="5">
+		<name>Fancy Green Bin</name>
+		<catagory>Bin Man</catagory>
+		<sizes>
+			<xlarge price="£13"/>
+			<large price="£11.50"/>
+			<medium price="£10"/>
+			<small price="£8.50"/>
+			<xsmall price="£7"/>
+		</sizes>
+	</product>
+</products>
